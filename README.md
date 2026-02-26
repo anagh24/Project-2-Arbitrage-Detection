@@ -146,7 +146,7 @@ Project-2-Arbitrage-Detection/
 
 ## Author
 Anagh Das  
-[LinkedIn](linkedin.com/in/dasanagh) | [Email](ddas948@gmail.com)
+[LinkedIn](https://linkedin.com/in/dasanagh) | [Email](mailto:ddas948@gmail.com)
 
 ---
 
